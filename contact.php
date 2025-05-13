@@ -5,10 +5,10 @@
 
 <main>
     <div class="form-container">
-        <h2><?php echo "Formulaire de contact"?></h2><br>
+        <h2><?php echo "Contact"?></h2><br>
 
     
-        <form method="post" action="">
+        <form method="post" id="contact-form" action="">
 
             <label for= "nom">Votre Nom</label>
             <input id="nom" type="text" name="nom" required><br><br>

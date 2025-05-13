@@ -38,7 +38,7 @@
             <h2>Contactez-nous</h2>
             <div class="box">
 
-                <div class="paragraph3">
+                <div class="para3">
                     <pour>Nous sommes à votre disposition pour toute demande de devis ou d'information, n'hésitez pas à nous contacter.</p><br>
                 
                     <div class="button-container">

@@ -4,15 +4,13 @@
 
 }
 
-html{
-    overflow-x: hidden;
-    overflow-y: auto;
-}
+
 
 body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     
     background-color: #DBDBDB ;
+    overflow-x: hidden;
 }
 
 h1{
@@ -22,7 +20,7 @@ h1{
     
 }
 h2{
-    color: #d6b982;
+    color: #706D54;
     text-align: center;
     margin-bottom: 20px;
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -68,7 +66,8 @@ a{
 
 main{
     flex:1;
-    color: #d6b982
+    color:#706D54
+    
 }
 
 .box{
@@ -147,6 +146,9 @@ ul{
     font-size: 20px;
 }
 
+.para3{
+    font-size: 20px;
+}
 .form-container{
     display: flex;
     justify-content: center;
